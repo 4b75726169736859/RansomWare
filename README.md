@@ -1,2 +1,2 @@
 # RannsomWare
-RansomWare encrypter (XoR)  + decripter
+RansomWare Encrypter (XoR)  + Decrypter
